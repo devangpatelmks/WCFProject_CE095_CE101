@@ -1,0 +1,6 @@
+C:\Users\Devang Patel\source\repos\RMS_Solution\RMS_Service\bin\Debug\RMS_Service.dll.config
+C:\Users\Devang Patel\source\repos\RMS_Solution\RMS_Service\bin\Debug\RMS_Service.dll
+C:\Users\Devang Patel\source\repos\RMS_Solution\RMS_Service\bin\Debug\RMS_Service.pdb
+C:\Users\Devang Patel\source\repos\RMS_Solution\RMS_Service\obj\Debug\RMS_Service.csproj.CoreCompileInputs.cache
+C:\Users\Devang Patel\source\repos\RMS_Solution\RMS_Service\obj\Debug\RMS_Service.dll
+C:\Users\Devang Patel\source\repos\RMS_Solution\RMS_Service\obj\Debug\RMS_Service.pdb
